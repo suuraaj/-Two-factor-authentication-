@@ -1,0 +1,2 @@
+# Two-Factor-Authentication(2FA) 
+The goal of this project is to implement two-factor authentication (2FA) for all users of the company's systems. 2FA is an additional layer of security that requires users to provide two pieces of information to verify their identity when logging in. This makes it much more difficult for unauthorized users to gain access to accounts, even if they have the user's password.
